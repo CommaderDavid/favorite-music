@@ -1,0 +1,28 @@
+h1 {
+  color: #e60000;
+  text-align: center;
+  font-size: 70px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 50px;
+  color: #0033cc;
+}
+
+img {
+  width: 450px;
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
+  font-size: 32px;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+  font-size: 40px;
+}
