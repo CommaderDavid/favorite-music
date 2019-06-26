@@ -1,0 +1,17 @@
+h1 {
+  color: #0066cc;
+  text-align: center;
+  font-size: 70px;
+}
+
+h2{
+  color: #4700b3;
+  text-align: center;
+  font-size: 35px;
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+  font-family: monospace;
+}
