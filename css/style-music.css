@@ -34,14 +34,28 @@ p {
   font-size: 25px;
 }
 
-ul {
+ul.dystopia {
   text-align: center;
   list-style-position: inside;
   font-size: 30px;
+  color: #336600;
 }
 
-ol {
+ul.action {
   text-align: center;
   list-style-position: inside;
+  font-size: 30px;
+  color: #800000;
+}
+
+ol.sci-fi {
+  text-align: center;
+  list-style-position: inside;
+  font-size: 30px;
+  color: #006bb3
+}
+
+.important {
+  color: #b30000;
   font-size: 30px;
 }
