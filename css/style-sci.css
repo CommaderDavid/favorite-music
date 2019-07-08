@@ -16,6 +16,19 @@ p {
   font-family: monospace;
 }
 
+p.favorite {
+  text-align: center;
+  font-size: 35px;
+  font-family: monospace;
+  color: #cc0000;
+}
+
+li.favorite {
+  font-size: 45px;
+  font-family: monospace;
+  color: #cc0000;
+}
+
 ol {
   text-align: center;
   list-style-position: inside;
