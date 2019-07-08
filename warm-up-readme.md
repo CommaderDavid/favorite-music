@@ -12,6 +12,7 @@ This is a Website that is created, using HTML and GitHub, that shows what music 
 
 * Copy the repository
 * Then open the HTML file in the browser of your choice
+* Read and Enjoy!
 
 ## Known Bugs
 
@@ -31,4 +32,4 @@ GitHub
 
 This software is licensed under the GPL license.
 
-Copyright (c) 2016 **_David Boedigheimer_**
+Copyright (c) 2019 **_David Boedigheimer_**
