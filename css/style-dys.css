@@ -1,29 +1,33 @@
 h1 {
   color: #804000;
-  text-align: center;
   font-size: 50px;
 }
 
 h2 {
-  text-align: center;
   font-size: 30px;
   color: #006600;
 }
 
-p {
-  text-align: center;
+p.discription {
   font-size: 25px;
   font-family: sans-serif;
+  color: #b38600;
 }
 
 ul {
   text-align: center;
   list-style-position: inside;
   font-size: 40px;
+  color: #ff0000;
 }
 
 img {
   width: 750px;
   display: block;
   margin: 0 auto;
+}
+
+body {
+  background-color: #4d1a00;
+  text-align: center;
 }
