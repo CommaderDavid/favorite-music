@@ -59,3 +59,29 @@ ol.sci-fi {
   color: #b30000;
   font-size: 30px;
 }
+
+@media screen and (max-width: 2000px) and (min-width: 1001px) {
+  body {
+    background-image: url("../img/GM3.png");
+    background-size: 450px;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+  }
+}
+@media screen and (max-width: 1000px) and (min-width: 650px) {
+  body {
+    background-image: url("../img/GM2.jpg");
+    background-repeat: repeat-y;
+  }
+  p {
+    color: #336600;
+  }
+}
+
+@media screen and (max-width: 649px) {
+  body {
+    background-image: url("../img/GM.png");
+    background-repeat: repeat-y;
+  }
+}
