@@ -24,12 +24,10 @@ If you have concerns, please contact me at stealth259@gmail.com
 
 ## Technologies Used
 
-HTML
-
-GitHub
+HTML, GitHub, and CSS where used in this code.
 
 ### License
 
-This software is licensed under the GPL license.
+This software is licensed under the MIT license.
 
 Copyright (c) 2019 **_David Boedigheimer_**
