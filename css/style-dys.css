@@ -35,7 +35,7 @@ body {
 @media screen and (max-width: 2000px) and (min-width: 1001px) {
   body {
     background-image: url("../img/GM3.png");
-    background-size: 450px;
+    background-size: 300px;
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
